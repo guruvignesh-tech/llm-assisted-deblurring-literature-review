@@ -1,0 +1,58 @@
+{
+  "raw_records": 4642,
+  "unique_records": 3799,
+  "api_pass_decisions": {
+    "REJECT": 1852,
+    "KEEP": 1052,
+    "MAYBE": 892
+  },
+  "post_API_resolutions": [
+    {
+      "screen_id": "S2864",
+      "decision": "KEEP",
+      "relevance": 8
+    },
+    {
+      "screen_id": "S2967",
+      "decision": "KEEP",
+      "relevance": 8
+    },
+    {
+      "screen_id": "S3160",
+      "decision": "MAYBE",
+      "relevance": 6
+    }
+  ],
+  "final_screening_decisions": {
+    "KEEP": 1054,
+    "MAYBE": 893,
+    "REJECT": 1852
+  },
+  "screening_api_status": {
+    "SUCCESS": 3796,
+    "PARSE_ERROR": 3
+  },
+  "retained_records": 1947,
+  "clustered_records": 1479,
+  "noise_records": 468,
+  "semantic_clusters": 31,
+  "theme_representatives": 465,
+  "original_shortlist": 45,
+  "input_sha256": {
+    "Deblurring_Literature_Master_Deduplicated.xlsx": "457dab96b27279fb1991880967e90fbb7d54a03df26a219866e7a2c974a4549f",
+    "Gemma4_26B_FULL_3799_Results.xlsx": "aea3ffb8fb11a1a8dff203fec541ad5cbc3794b6027db9487106b4fc0fa49fda",
+    "Deblurring_Clustering_Input_1947.xlsx": "ae975e95964d2e354401eade93c7146d304751b6c59c2047c48d4b641681be78",
+    "Deblurring_Clustered_1947.xlsx": "81539d6083262698519c110c1fd0ae5ef45b6b770c3f254437edc15b768f0d24",
+    "Deblurring_Theme_Summary_FINAL.xlsx": "c678741c9bf673a388e98a692d86357a8a8c6570f9e6fe2861b16c88df20e2f1",
+    "GeminiEmbedding2_1947_768d.npy": "261a6f112df184f16449725787139f0ff63d5b30e82badea7b30b4aeb7f9c9c6",
+    "Deblurring_Final_45_Key_Papers_WITH_DIRECT_LINKS.xlsx": "b268eb1e6ce7de57599e535200497c62f08e8e34f81edad467ddf287ba0a8a57",
+    "scopus_export_Sep 22-2026_25e77946-6165-49dc-be28-76b7bda68b47.csv": "74d080103d3c52ce219cd54f4c0c4a675070ec279d36c382eb0d3911d3d0db24",
+    "scopus_export_Sep 22-2026_2ba72eed-9713-45c1-8962-984b66f4bf89.csv": "84803440cd975bc72221b0a9baed41f0be40e18fa8ebe853cffafdb425f60953",
+    "scopus_export_Sep 22-2026_67d31fe9-9eab-42f7-8eb6-880c7b8dba3e.csv": "8c1526a3a0670363d15d220b5995a863bb550beaa314981eb4f2793635fb309d",
+    "scopus_export_Sep 22-2026_a043ddce-5719-408e-a457-7162920182ce.csv": "a034dac1cd2291e598f31afd88b4bc04e24d42c47063ff24c042da11d449bdd1",
+    "scopus_export_Sep 23-2026_6ff97c77-7db3-4646-9fc3-ee5b43b233cb.csv": "df12b64a61f7ca9df32282b42cd909e9514b96e604fa4ac89c609dfb752695a9",
+    "scopus_export_Sep 23-2026_91ace618-ee24-4813-bb1f-9430cf021e32.csv": "babdb23e750c38165a52292f54846cb120b5329f741b6daae2a446756888f1ce"
+  },
+  "audit_checks_passed": 49,
+  "scope": "Internal consistency and saved output verification; no live model calls or independent relevance ground truth"
+}

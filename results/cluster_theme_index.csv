@@ -1,0 +1,32 @@
+cluster,paper_count,representative_paper_count,theme
+0,48,15,Deep learning-based motion deblurring and task-driven image restoration for robotic perception
+1,24,15,Task-driven image restoration and deblurring for Automated License Plate Recognition (ALPR)
+2,17,15,Task-driven facial image restoration for biometric perception
+3,34,15,Motion-aware and task-driven underwater image restoration for robotic perception
+4,15,15,Multi-modal sensor-assisted and task-driven joint low-light enhancement and motion deblurring
+5,137,15,Cross-modal Event-Guided Motion Deblurring via RGB-Event Fusion
+6,40,15,Motion-Aware Deblurring for 3D Reconstruction and Novel View Synthesis
+7,90,15,GAN-based blind motion deblurring and image restoration
+8,38,15,Joint blind motion deblurring and super-resolution via deep learning architectures
+9,22,15,Task-Driven and Quality-Aware Deblurring for Machine Perception
+10,32,15,Task-Driven and Universal Image Restoration using Generative Priors
+11,39,15,Task-Oriented Image Restoration and Perception Optimization in Adverse Conditions
+12,30,15,Motion-Aware Deblurring and Performance Evaluation for Thermal and Infrared Imaging Systems
+13,17,15,Task-Driven and Motion-Aware Deblurring for Robust Robotic Perception
+14,50,15,Task-Driven Spatiotemporal Feature Aggregation for Video Object Detection
+15,30,15,Task-driven visual tracking and blur-aware perception strategies
+16,43,15,Methodological landscape and comparative analysis of single-image blind motion deblurring
+17,55,15,Motion Blur Mitigation and Robust Perception in Visual SLAM and Dynamic Environments
+18,27,15,Task-driven and architecture-integrated motion blur mitigation for robust agricultural robotic perception
+19,79,15,Task-driven motion deblurring and feature-level enhancement for UAV-based object detection and multi-object tracking
+20,17,15,Task-driven and motion-aware deblurring optimized for downstream robotic perception and object detection
+21,36,15,Task-driven and motion-aware image restoration for automated robotic structural inspection
+22,17,15,Image-Only Blind Deblurring and Degradation-Aware Representation Learning for Downstream Perception
+23,50,15,Sensor-assisted motion deblurring via inertial measurement unit (IMU) data for spatially-variant PSF estimation
+24,100,15,Sensor-Augmented and Computational Camera Approaches for Motion Blur and Rolling Shutter Mitigation
+25,64,15,Deep Learning-based Blind and Multi-frame Image Deblurring
+26,143,15,Optimization-driven and Task-Adapted Image Restoration and Parameter Estimation
+27,24,15,Multi-scale and Recurrent Architectures for Blind Image Deblurring
+28,73,15,Multi-scale and Attention-driven Architectures for Blind Image Deblurring
+29,44,15,Advanced Transformer-based and Hybrid CNN-Transformer Architectures for Blind Image Deblurring
+30,44,15,Dual-domain (spatial-frequency) integration and frequency-aware architectures for blind image deblurring
