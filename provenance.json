@@ -1,0 +1,33 @@
+[
+  {
+    "file": "scripts/gemma4_26b_RESUME_V2_UNICODE_FIX.py",
+    "source": "historical survey script with documented release fixes",
+    "validation": "See VALIDATION.md",
+    "original_sha256": "e3f350b752f1f514ce771b08f42fd1976a19293f02193a9809b7070d07a1eb18",
+    "sha256": "07212cd64e0bc59156d0c98571aea0bc053f0376f0146815291df0a801a61a43"
+  },
+  {
+    "file": "scripts/gemini_embedding_cluster_1947.py",
+    "source": "historical survey script with documented release fixes",
+    "validation": "See VALIDATION.md",
+    "original_sha256": "bbcb0446f63e8f7eddab2db1d54cd685a0194ba89e8c5f06e32acc872fe1c2c0",
+    "sha256": "9108af1e9b582c087ec21a3c7ae5507844036a88a85cdd7bf503abe4704a8b1d"
+  },
+  {
+    "file": "scripts/theme_summary_FINAL_V2_SAFE.py",
+    "source": "historical survey script with documented release fixes",
+    "validation": "See VALIDATION.md",
+    "original_sha256": "528a2ff1c091328be51e47047e8e9d1ea676ad0b75a7398f46c8b70877e789c9",
+    "sha256": "d00e957f07fd5415c93b59fb45a0e72bf1bf3eb91d288175368f027a285918b9"
+  },
+  {
+    "file": "scripts/checkpoint_guard.py",
+    "sha256": "bbd91ad27c6aff65f1f7424b7e683f29618cc613803c187b4f8f0ef36cc2eaf7",
+    "source": "new release checkpoint validation helper"
+  },
+  {
+    "file": "scripts/prepare_clustering_input.py",
+    "sha256": "42fe66f4fcb5fd11cacc76650a52fd559709d7432e8ef4832519e104edc2cafe",
+    "source": "new release handoff helper; not used in historical run"
+  }
+]
