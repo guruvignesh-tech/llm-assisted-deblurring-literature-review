@@ -1,6 +1,6 @@
-google-genai
-pandas
-openpyxl
-numpy
-umap-learn
-hdbscan
+google-genai
+pandas
+openpyxl
+numpy
+umap-learn
+hdbscan
